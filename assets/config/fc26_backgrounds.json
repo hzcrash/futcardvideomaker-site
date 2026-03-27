@@ -1,0 +1,30 @@
+{
+  "versionId": "fc26",
+  "updatedAt": "2026-03-27T13:40:00+08:00",
+  "backgrounds": [
+    {
+      "id": "remote_fc26_149_fut_birthday_icon",
+      "i": "149_fut_birthday_icon",
+      "name": "FUT Birthday Icon",
+      "u": "https://hzcrash.github.io/futcardvideomaker-site/assets/backgrounds/fc26/149_fut_birthday_icon.webp",
+      "t": null,
+      "s": null
+    },
+    {
+      "id": "remote_fc26_55_knockout_royalty",
+      "i": "55_knockout_royalty",
+      "name": "Knockout Royalty",
+      "u": "https://hzcrash.github.io/futcardvideomaker-site/assets/backgrounds/fc26/55_knockout_royalty.webp",
+      "t": null,
+      "s": null
+    },
+    {
+      "id": "remote_fc26_20_answer_the_call",
+      "i": "20_answer_the_call",
+      "name": "Answer The Call",
+      "u": "https://hzcrash.github.io/futcardvideomaker-site/assets/backgrounds/fc26/20_answer_the_call.webp",
+      "t": null,
+      "s": null
+    }
+  ]
+}
