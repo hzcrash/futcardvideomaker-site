@@ -1,6 +1,6 @@
 {
   "versionId": "fc26",
-  "updatedAt": "2026-03-27T13:40:00+08:00",
+  "updatedAt": "2026-03-31T10:35:00+08:00",
   "backgrounds": [
     {
       "id": "remote_fc26_149_fut_birthday_icon",
@@ -23,6 +23,38 @@
       "i": "20_answer_the_call",
       "name": "Answer The Call",
       "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/20_answer_the_call.webp",
+      "t": null,
+      "s": null
+    },
+    {
+      "id": "remote_fc26_32_uwcl_rttf",
+      "i": "32_uwcl_rttf",
+      "name": "UWCL RTTF",
+      "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/32_uwcl_rttf.webp",
+      "t": null,
+      "s": null
+    },
+    {
+      "id": "remote_fc26_125_uel_rttf",
+      "i": "125_uel_rttf",
+      "name": "UEL RTTF",
+      "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/125_uel_rttf.webp",
+      "t": null,
+      "s": null
+    },
+    {
+      "id": "remote_fc26_126_uecl_rttf",
+      "i": "126_uecl_rttf",
+      "name": "UECL RTTF",
+      "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/126_uecl_rttf.webp",
+      "t": null,
+      "s": null
+    },
+    {
+      "id": "remote_fc26_135_fantasy_fc_hero",
+      "i": "135_fantasy_fc_hero",
+      "name": "Fantasy FC Hero",
+      "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/135_fantasy_fc_hero.webp",
       "t": null,
       "s": null
     }
