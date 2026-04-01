@@ -1,6 +1,6 @@
 {
   "versionId": "fc26",
-  "updatedAt": "2026-03-31T10:35:00+08:00",
+  "updatedAt": "2026-04-01T17:53:00+08:00",
   "backgrounds": [
     {
       "id": "remote_fc26_149_fut_birthday_icon",
@@ -55,6 +55,46 @@
       "i": "135_fantasy_fc_hero",
       "name": "Fantasy FC Hero",
       "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/135_fantasy_fc_hero.webp",
+      "t": null,
+      "s": null
+    },
+    {
+      "id": "remote_fc26_148_fut_birthday_hero",
+      "i": "148_fut_birthday_hero",
+      "name": "FUT Birthday Hero",
+      "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/148_fut_birthday_hero.webp",
+      "t": null,
+      "s": null
+    },
+    {
+      "id": "remote_fc26_8_star_performer",
+      "i": "8_star_performer",
+      "name": "Star Performer",
+      "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/8_star_performer.webp",
+      "t": null,
+      "s": null
+    },
+    {
+      "id": "remote_fc26_177_potm_liga_f",
+      "i": "177_potm_liga_f",
+      "name": "POTM Liga F",
+      "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/177_potm_liga_f.webp",
+      "t": null,
+      "s": null
+    },
+    {
+      "id": "remote_fc26_23_future_stars_hero",
+      "i": "23_future_stars_hero",
+      "name": "Future Stars Hero",
+      "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/23_future_stars_hero.webp",
+      "t": null,
+      "s": null
+    },
+    {
+      "id": "remote_fc26_161_champion_icon",
+      "i": "161_champion_icon",
+      "name": "Champion Icon",
+      "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/161_champion_icon.webp",
       "t": null,
       "s": null
     }
