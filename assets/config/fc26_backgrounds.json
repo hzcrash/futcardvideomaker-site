@@ -1,6 +1,6 @@
 {
   "versionId": "fc26",
-  "updatedAt": "2026-04-01T17:53:00+08:00",
+  "updatedAt": "2026-04-07T16:10:14+08:00",
   "backgrounds": [
     {
       "id": "remote_fc26_149_fut_birthday_icon",
@@ -95,6 +95,30 @@
       "i": "161_champion_icon",
       "name": "Champion Icon",
       "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/161_champion_icon.webp",
+      "t": null,
+      "s": null
+    },
+    {
+      "id": "remote_fc26_38_fc_pro_leagues_live",
+      "i": "38_fc_pro_leagues_live",
+      "name": "FC Pro Leagues Live",
+      "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/38_fc_pro_leagues_live.webp",
+      "t": null,
+      "s": null
+    },
+    {
+      "id": "remote_fc26_77_trophy_titans_hero",
+      "i": "77_trophy_titans_hero",
+      "name": "Trophy Titans Hero",
+      "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/77_trophy_titans_hero.webp",
+      "t": null,
+      "s": null
+    },
+    {
+      "id": "remote_fc26_90_moments",
+      "i": "90_moments",
+      "name": "Moments",
+      "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/90_moments.webp",
       "t": null,
       "s": null
     }
