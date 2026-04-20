@@ -1,6 +1,6 @@
 {
   "versionId": "fc26",
-  "updatedAt": "2026-04-07T16:10:14+08:00",
+  "updatedAt": "2026-04-20T10:10:04+08:00",
   "backgrounds": [
     {
       "id": "remote_fc26_149_fut_birthday_icon",
@@ -119,6 +119,30 @@
       "i": "90_moments",
       "name": "Moments",
       "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/90_moments.webp",
+      "t": null,
+      "s": null
+    },
+    {
+      "id": "remote_fc26_43_potm_pl",
+      "i": "43_potm_pl",
+      "name": "POTM PL",
+      "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/43_potm_pl.webp",
+      "t": null,
+      "s": null
+    },
+    {
+      "id": "remote_fc26_120_tots_highlights",
+      "i": "120_tots_highlights",
+      "name": "TOTS Highlights",
+      "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/120_tots_highlights.webp",
+      "t": null,
+      "s": null
+    },
+    {
+      "id": "remote_fc26_11_team_of_the_season",
+      "i": "11_team_of_the_season",
+      "name": "Team Of The Season",
+      "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/11_team_of_the_season.webp",
       "t": null,
       "s": null
     }
