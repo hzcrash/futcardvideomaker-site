@@ -1,6 +1,6 @@
 {
   "versionId": "fc26",
-  "updatedAt": "2026-04-20T10:10:04+08:00",
+  "updatedAt": "2026-05-31T20:53:18+08:00",
   "backgrounds": [
     {
       "id": "remote_fc26_149_fut_birthday_icon",
@@ -143,6 +143,22 @@
       "i": "11_team_of_the_season",
       "name": "Team Of The Season",
       "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/11_team_of_the_season.webp",
+      "t": null,
+      "s": null
+    },
+    {
+      "id": "remote_fc26_25_end_of_era",
+      "i": "25_end_of_era",
+      "name": "End Of Era",
+      "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/25_end_of_era.webp",
+      "t": null,
+      "s": null
+    },
+    {
+      "id": "remote_fc26_21_prime_heroes",
+      "i": "21_prime_heroes",
+      "name": "Prime Heroes",
+      "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/21_prime_heroes.webp",
       "t": null,
       "s": null
     }
