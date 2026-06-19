@@ -1,6 +1,6 @@
 {
   "versionId": "fc26",
-  "updatedAt": "2026-05-31T20:53:18+08:00",
+  "updatedAt": "2026-06-19T17:44:00+08:00",
   "backgrounds": [
     {
       "id": "remote_fc26_149_fut_birthday_icon",
@@ -159,6 +159,38 @@
       "i": "21_prime_heroes",
       "name": "Prime Heroes",
       "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/21_prime_heroes.webp",
+      "t": null,
+      "s": null
+    },
+    {
+      "id": "remote_fc26_107_path_to_glory",
+      "i": "107_path_to_glory",
+      "name": "Path To Glory",
+      "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/107_path_to_glory.webp",
+      "t": null,
+      "s": null
+    },
+    {
+      "id": "remote_fc26_98_national_pride",
+      "i": "98_national_pride",
+      "name": "National Pride",
+      "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/98_national_pride.webp",
+      "t": null,
+      "s": null
+    },
+    {
+      "id": "remote_fc26_94_star_performer",
+      "i": "94_star_performer",
+      "name": "Star Performer",
+      "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/94_star_performer.webp",
+      "t": null,
+      "s": null
+    },
+    {
+      "id": "remote_fc26_28_festival_of_football_captains",
+      "i": "28_festival_of_football_captains",
+      "name": "Festival Of Football Captains",
+      "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/28_festival_of_football_captains.webp",
       "t": null,
       "s": null
     }
