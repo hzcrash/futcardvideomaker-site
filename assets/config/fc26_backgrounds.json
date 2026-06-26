@@ -1,6 +1,6 @@
 {
   "versionId": "fc26",
-  "updatedAt": "2026-06-19T17:44:00+08:00",
+  "updatedAt": "2026-06-26T13:00:00+08:00",
   "backgrounds": [
     {
       "id": "remote_fc26_149_fut_birthday_icon",
@@ -191,6 +191,30 @@
       "i": "28_festival_of_football_captains",
       "name": "Festival Of Football Captains",
       "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/28_festival_of_football_captains.webp",
+      "t": null,
+      "s": null
+    },
+    {
+      "id": "remote_fc26_130_greats_of_the_game_hero",
+      "i": "130_greats_of_the_game_hero",
+      "name": "Greats Of The Game Hero",
+      "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/130_greats_of_the_game_hero.webp",
+      "t": null,
+      "s": null
+    },
+    {
+      "id": "remote_fc26_131_greats_of_the_game_icon",
+      "i": "131_greats_of_the_game_icon",
+      "name": "Greats Of The Game Icon",
+      "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/131_greats_of_the_game_icon.webp",
+      "t": null,
+      "s": null
+    },
+    {
+      "id": "remote_fc26_36_journey_of_nations",
+      "i": "36_journey_of_nations",
+      "name": "Journey Of Nations",
+      "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/36_journey_of_nations.webp",
       "t": null,
       "s": null
     }
