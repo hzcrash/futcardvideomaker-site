@@ -1,6 +1,6 @@
 {
   "versionId": "fc26",
-  "updatedAt": "2026-06-26T13:00:00+08:00",
+  "updatedAt": "2026-07-24T10:54:00+08:00",
   "backgrounds": [
     {
       "id": "remote_fc26_149_fut_birthday_icon",
@@ -215,6 +215,22 @@
       "i": "36_journey_of_nations",
       "name": "Journey Of Nations",
       "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/36_journey_of_nations.webp",
+      "t": null,
+      "s": null
+    },
+    {
+      "id": "remote_fc26_16_futties",
+      "i": "16_futties",
+      "name": "Futties",
+      "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/16_futties.webp",
+      "t": null,
+      "s": null
+    },
+    {
+      "id": "remote_fc26_78_summer_stars_winners",
+      "i": "78_summer_stars_winners",
+      "name": "Summer Stars Winners",
+      "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/78_summer_stars_winners.webp",
       "t": null,
       "s": null
     }
