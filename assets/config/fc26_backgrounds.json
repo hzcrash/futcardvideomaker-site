@@ -1,7 +1,15 @@
 {
   "versionId": "fc26",
-  "updatedAt": "2026-07-24T10:54:00+08:00",
+  "updatedAt": "2026-09-25T00:00:00+08:00",
   "backgrounds": [
+    {
+      "id": "remote_fc26_3_team_of_the_week",
+      "i": "3_team_of_the_week",
+      "name": "Team Of The Week",
+      "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/3_team_of_the_week.webp",
+      "t": null,
+      "s": null
+    },
     {
       "id": "remote_fc26_149_fut_birthday_icon",
       "i": "149_fut_birthday_icon",
