@@ -1,7 +1,23 @@
 {
   "versionId": "fc26",
-  "updatedAt": "2026-09-25T00:00:00+08:00",
+  "updatedAt": "2026-09-28T10:40:00+08:00",
   "backgrounds": [
+    {
+      "id": "remote_fc26_5_icon",
+      "i": "5_icon",
+      "name": "Icon",
+      "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/5_icon.webp",
+      "t": null,
+      "s": null
+    },
+    {
+      "id": "remote_fc26_119_tots_live",
+      "i": "119_tots_live",
+      "name": "TOTS Live",
+      "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/119_tots_live.webp",
+      "t": null,
+      "s": null
+    },
     {
       "id": "remote_fc26_3_team_of_the_week",
       "i": "3_team_of_the_week",
