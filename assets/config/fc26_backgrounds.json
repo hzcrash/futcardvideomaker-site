@@ -1,14 +1,51 @@
 {
   "versionId": "fc26",
-  "updatedAt": "2026-09-28T10:40:00+08:00",
+  "updatedAt": "2026-10-14T10:16:22+08:00",
   "backgrounds": [
+    {
+      "id": "remote_fc26_71_future_stars",
+      "i": "71_future_stars",
+      "name": "Future Stars",
+      "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/71_future_stars.webp",
+      "t": null,
+      "s": null,
+      "p": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/thumbs/71_future_stars.webp"
+    },
+    {
+      "id": "remote_fc26_42_potm_bundesliga",
+      "i": "42_potm_bundesliga",
+      "name": "POTM Bundesliga",
+      "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/42_potm_bundesliga.webp",
+      "t": null,
+      "s": null,
+      "p": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/thumbs/42_potm_bundesliga.webp"
+    },
+    {
+      "id": "remote_fc26_86_potm_laliga",
+      "i": "86_potm_laliga",
+      "name": "POTM LaLiga",
+      "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/86_potm_laliga.webp",
+      "t": null,
+      "s": null,
+      "p": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/thumbs/86_potm_laliga.webp"
+    },
+    {
+      "id": "remote_fc26_114_potm_serie_a",
+      "i": "114_potm_serie_a",
+      "name": "POTM Serie A",
+      "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/114_potm_serie_a.webp",
+      "t": null,
+      "s": null,
+      "p": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/thumbs/114_potm_serie_a.webp"
+    },
     {
       "id": "remote_fc26_5_icon",
       "i": "5_icon",
       "name": "Icon",
       "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/5_icon.webp",
       "t": null,
-      "s": null
+      "s": null,
+      "p": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/thumbs/5_icon.webp"
     },
     {
       "id": "remote_fc26_119_tots_live",
@@ -16,7 +53,8 @@
       "name": "TOTS Live",
       "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/119_tots_live.webp",
       "t": null,
-      "s": null
+      "s": null,
+      "p": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/thumbs/119_tots_live.webp"
     },
     {
       "id": "remote_fc26_3_team_of_the_week",
@@ -24,7 +62,8 @@
       "name": "Team Of The Week",
       "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/3_team_of_the_week.webp",
       "t": null,
-      "s": null
+      "s": null,
+      "p": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/thumbs/3_team_of_the_week.webp"
     },
     {
       "id": "remote_fc26_149_fut_birthday_icon",
@@ -32,7 +71,8 @@
       "name": "FUT Birthday Icon",
       "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/149_fut_birthday_icon.webp",
       "t": null,
-      "s": null
+      "s": null,
+      "p": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/thumbs/149_fut_birthday_icon.webp"
     },
     {
       "id": "remote_fc26_55_knockout_royalty",
@@ -40,7 +80,8 @@
       "name": "Knockout Royalty",
       "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/55_knockout_royalty.webp",
       "t": null,
-      "s": null
+      "s": null,
+      "p": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/thumbs/55_knockout_royalty.webp"
     },
     {
       "id": "remote_fc26_20_answer_the_call",
@@ -48,7 +89,8 @@
       "name": "Answer The Call",
       "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/20_answer_the_call.webp",
       "t": null,
-      "s": null
+      "s": null,
+      "p": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/thumbs/20_answer_the_call.webp"
     },
     {
       "id": "remote_fc26_32_uwcl_rttf",
@@ -56,7 +98,8 @@
       "name": "UWCL RTTF",
       "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/32_uwcl_rttf.webp",
       "t": null,
-      "s": null
+      "s": null,
+      "p": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/thumbs/32_uwcl_rttf.webp"
     },
     {
       "id": "remote_fc26_125_uel_rttf",
@@ -64,7 +107,8 @@
       "name": "UEL RTTF",
       "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/125_uel_rttf.webp",
       "t": null,
-      "s": null
+      "s": null,
+      "p": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/thumbs/125_uel_rttf.webp"
     },
     {
       "id": "remote_fc26_126_uecl_rttf",
@@ -72,7 +116,8 @@
       "name": "UECL RTTF",
       "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/126_uecl_rttf.webp",
       "t": null,
-      "s": null
+      "s": null,
+      "p": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/thumbs/126_uecl_rttf.webp"
     },
     {
       "id": "remote_fc26_135_fantasy_fc_hero",
@@ -80,7 +125,8 @@
       "name": "Fantasy FC Hero",
       "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/135_fantasy_fc_hero.webp",
       "t": null,
-      "s": null
+      "s": null,
+      "p": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/thumbs/135_fantasy_fc_hero.webp"
     },
     {
       "id": "remote_fc26_148_fut_birthday_hero",
@@ -88,7 +134,8 @@
       "name": "FUT Birthday Hero",
       "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/148_fut_birthday_hero.webp",
       "t": null,
-      "s": null
+      "s": null,
+      "p": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/thumbs/148_fut_birthday_hero.webp"
     },
     {
       "id": "remote_fc26_8_star_performer",
@@ -96,7 +143,8 @@
       "name": "Star Performer",
       "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/8_star_performer.webp",
       "t": null,
-      "s": null
+      "s": null,
+      "p": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/thumbs/8_star_performer.webp"
     },
     {
       "id": "remote_fc26_177_potm_liga_f",
@@ -104,7 +152,8 @@
       "name": "POTM Liga F",
       "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/177_potm_liga_f.webp",
       "t": null,
-      "s": null
+      "s": null,
+      "p": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/thumbs/177_potm_liga_f.webp"
     },
     {
       "id": "remote_fc26_23_future_stars_hero",
@@ -112,7 +161,8 @@
       "name": "Future Stars Hero",
       "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/23_future_stars_hero.webp",
       "t": null,
-      "s": null
+      "s": null,
+      "p": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/thumbs/23_future_stars_hero.webp"
     },
     {
       "id": "remote_fc26_161_champion_icon",
@@ -120,7 +170,8 @@
       "name": "Champion Icon",
       "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/161_champion_icon.webp",
       "t": null,
-      "s": null
+      "s": null,
+      "p": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/thumbs/161_champion_icon.webp"
     },
     {
       "id": "remote_fc26_38_fc_pro_leagues_live",
@@ -128,7 +179,8 @@
       "name": "FC Pro Leagues Live",
       "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/38_fc_pro_leagues_live.webp",
       "t": null,
-      "s": null
+      "s": null,
+      "p": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/thumbs/38_fc_pro_leagues_live.webp"
     },
     {
       "id": "remote_fc26_77_trophy_titans_hero",
@@ -136,7 +188,8 @@
       "name": "Trophy Titans Hero",
       "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/77_trophy_titans_hero.webp",
       "t": null,
-      "s": null
+      "s": null,
+      "p": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/thumbs/77_trophy_titans_hero.webp"
     },
     {
       "id": "remote_fc26_90_moments",
@@ -144,7 +197,8 @@
       "name": "Moments",
       "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/90_moments.webp",
       "t": null,
-      "s": null
+      "s": null,
+      "p": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/thumbs/90_moments.webp"
     },
     {
       "id": "remote_fc26_43_potm_pl",
@@ -152,7 +206,8 @@
       "name": "POTM PL",
       "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/43_potm_pl.webp",
       "t": null,
-      "s": null
+      "s": null,
+      "p": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/thumbs/43_potm_pl.webp"
     },
     {
       "id": "remote_fc26_120_tots_highlights",
@@ -160,7 +215,8 @@
       "name": "TOTS Highlights",
       "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/120_tots_highlights.webp",
       "t": null,
-      "s": null
+      "s": null,
+      "p": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/thumbs/120_tots_highlights.webp"
     },
     {
       "id": "remote_fc26_11_team_of_the_season",
@@ -168,7 +224,8 @@
       "name": "Team Of The Season",
       "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/11_team_of_the_season.webp",
       "t": null,
-      "s": null
+      "s": null,
+      "p": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/thumbs/11_team_of_the_season.webp"
     },
     {
       "id": "remote_fc26_25_end_of_era",
@@ -176,7 +233,8 @@
       "name": "End Of Era",
       "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/25_end_of_era.webp",
       "t": null,
-      "s": null
+      "s": null,
+      "p": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/thumbs/25_end_of_era.webp"
     },
     {
       "id": "remote_fc26_21_prime_heroes",
@@ -184,7 +242,8 @@
       "name": "Prime Heroes",
       "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/21_prime_heroes.webp",
       "t": null,
-      "s": null
+      "s": null,
+      "p": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/thumbs/21_prime_heroes.webp"
     },
     {
       "id": "remote_fc26_107_path_to_glory",
@@ -192,7 +251,8 @@
       "name": "Path To Glory",
       "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/107_path_to_glory.webp",
       "t": null,
-      "s": null
+      "s": null,
+      "p": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/thumbs/107_path_to_glory.webp"
     },
     {
       "id": "remote_fc26_98_national_pride",
@@ -200,7 +260,8 @@
       "name": "National Pride",
       "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/98_national_pride.webp",
       "t": null,
-      "s": null
+      "s": null,
+      "p": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/thumbs/98_national_pride.webp"
     },
     {
       "id": "remote_fc26_94_star_performer",
@@ -208,7 +269,8 @@
       "name": "Star Performer",
       "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/94_star_performer.webp",
       "t": null,
-      "s": null
+      "s": null,
+      "p": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/thumbs/94_star_performer.webp"
     },
     {
       "id": "remote_fc26_28_festival_of_football_captains",
@@ -216,7 +278,8 @@
       "name": "Festival Of Football Captains",
       "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/28_festival_of_football_captains.webp",
       "t": null,
-      "s": null
+      "s": null,
+      "p": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/thumbs/28_festival_of_football_captains.webp"
     },
     {
       "id": "remote_fc26_130_greats_of_the_game_hero",
@@ -224,7 +287,8 @@
       "name": "Greats Of The Game Hero",
       "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/130_greats_of_the_game_hero.webp",
       "t": null,
-      "s": null
+      "s": null,
+      "p": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/thumbs/130_greats_of_the_game_hero.webp"
     },
     {
       "id": "remote_fc26_131_greats_of_the_game_icon",
@@ -232,7 +296,8 @@
       "name": "Greats Of The Game Icon",
       "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/131_greats_of_the_game_icon.webp",
       "t": null,
-      "s": null
+      "s": null,
+      "p": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/thumbs/131_greats_of_the_game_icon.webp"
     },
     {
       "id": "remote_fc26_36_journey_of_nations",
@@ -240,7 +305,8 @@
       "name": "Journey Of Nations",
       "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/36_journey_of_nations.webp",
       "t": null,
-      "s": null
+      "s": null,
+      "p": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/thumbs/36_journey_of_nations.webp"
     },
     {
       "id": "remote_fc26_16_futties",
@@ -248,7 +314,8 @@
       "name": "Futties",
       "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/16_futties.webp",
       "t": null,
-      "s": null
+      "s": null,
+      "p": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/thumbs/16_futties.webp"
     },
     {
       "id": "remote_fc26_78_summer_stars_winners",
@@ -256,7 +323,8 @@
       "name": "Summer Stars Winners",
       "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/78_summer_stars_winners.webp",
       "t": null,
-      "s": null
+      "s": null,
+      "p": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/thumbs/78_summer_stars_winners.webp"
     }
   ]
 }
