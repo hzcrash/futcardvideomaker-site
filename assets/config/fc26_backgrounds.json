@@ -1,7 +1,25 @@
 {
   "versionId": "fc26",
-  "updatedAt": "2026-10-14T10:16:22+08:00",
+  "updatedAt": "2026-10-23T13:42:54Z",
   "backgrounds": [
+    {
+      "id": "remote_fc26_103_fc_heritage",
+      "i": "103_fc_heritage",
+      "name": "FC Heritage",
+      "u": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/103_fc_heritage.webp",
+      "t": null,
+      "s": null,
+      "p": "https://raw.githubusercontent.com/hzcrash/futcardvideomaker-site/main/assets/backgrounds/fc26/thumbs/103_fc_heritage.webp",
+      "revision": "76b7f9a89c25d665096e1d20976686cd9da95b59da8fff03098451752a0fc459",
+      "sha256": "76b7f9a89c25d665096e1d20976686cd9da95b59da8fff03098451752a0fc459",
+      "bytes": 223368,
+      "width": 644,
+      "height": 894,
+      "previewSha256": "4a10a3975ebcfd8f78eb8928a35791cb7ee69c3f54c3959650c7c834445f64e8",
+      "previewBytes": 21544,
+      "previewWidth": 216,
+      "previewHeight": 300
+    },
     {
       "id": "remote_fc26_71_future_stars",
       "i": "71_future_stars",
